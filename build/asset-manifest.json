@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/leandro992/mve-evento/static/css/main.ba49ec77.chunk.css",
+    "main.js": "/leandro992/mve-evento/static/js/main.34466543.chunk.js",
+    "main.js.map": "/leandro992/mve-evento/static/js/main.34466543.chunk.js.map",
+    "runtime~main.js": "/leandro992/mve-evento/static/js/runtime~main.03371caa.js",
+    "runtime~main.js.map": "/leandro992/mve-evento/static/js/runtime~main.03371caa.js.map",
+    "static/js/2.b41502e9.chunk.js": "/leandro992/mve-evento/static/js/2.b41502e9.chunk.js",
+    "static/js/2.b41502e9.chunk.js.map": "/leandro992/mve-evento/static/js/2.b41502e9.chunk.js.map",
+    "index.html": "/leandro992/mve-evento/index.html",
+    "precache-manifest.0e0daecfdd040bbfb5fd21ee73e80598.js": "/leandro992/mve-evento/precache-manifest.0e0daecfdd040bbfb5fd21ee73e80598.js",
+    "service-worker.js": "/leandro992/mve-evento/service-worker.js",
+    "static/css/main.ba49ec77.chunk.css.map": "/leandro992/mve-evento/static/css/main.ba49ec77.chunk.css.map",
+    "static/media/logo.svg": "/leandro992/mve-evento/static/media/logo.ee7cd8ed.svg"
+  }
+}
