@@ -1,20 +1,18 @@
-import React from 'react';
-import logo from './logo.svg';
-import './App.css';
-import Menu from './src/menu';
-import footer from './src/footer';
-import maps from './src/maps'
 
+
+import React, { Fragment } from "react";
+
+import GlobalStyled from "./styles/globals";
+import Routes from "./routes";
+import "./App.css";
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-       
+    <Fragment>
+      <Routes />
+      <GlobalStyled />
+    </Fragment>
 
-
-      </header>
-    </div>
   );
 }
 
