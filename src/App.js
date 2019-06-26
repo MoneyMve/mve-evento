@@ -1,3 +1,5 @@
+
+
 import React, { Fragment } from "react";
 
 import GlobalStyled from "./styles/globals";
@@ -10,7 +12,9 @@ function App() {
       <Routes />
       <GlobalStyled />
     </Fragment>
+
   );
 }
+
 
 export default App;
