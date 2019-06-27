@@ -4,7 +4,7 @@ Site criado utilizando REACT
 
 ## Descrição
 
-<img src="./src/assets/sales_talk_print.png" alt="et" height="50%" width="50%" align="right" />
+<img src="./src/assets/img/sales_talk_print.png" alt="et" height="50%" width="50%" align="right" />
 
 Página de evento: 
 
