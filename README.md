@@ -17,4 +17,4 @@ Página de evento:
   - Rodapé
 
 ## Agradecimentos
-@MoneyMve | @leandro992 | @leotorres76
+@MoneyMve | @leandro992 | @leotorres76 | @EduardoGFreitas
